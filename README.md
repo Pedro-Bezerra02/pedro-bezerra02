@@ -44,6 +44,6 @@ Olá! Meu nome é Pedro Henrique, tenho 18 anos e sou de São Paulo. Sou um entu
 ## 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Bezerra02&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Bezerra02&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Linguagens Mais Usadas"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Bezerra02&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Bezerra02&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Linguagens Mais Usadas"/>
 </p>
