@@ -13,7 +13,7 @@ Olá! Meu nome é Pedro Henrique, tenho 18 anos e sou de São Paulo. Sou um entu
 ## 💻 Tecnologias e Ferramentas
 
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   </a>
   <!-- <a href="https://spring.io/" target="_blank" rel="noreferrer">
@@ -25,7 +25,7 @@ Olá! Meu nome é Pedro Henrique, tenho 18 anos e sou de São Paulo. Sou um entu
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   </a> -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </a>
 </p>
